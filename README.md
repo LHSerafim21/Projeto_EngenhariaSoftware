@@ -1,1 +1,3 @@
-# Projeto_EngenhariaSoftware
+# Projeto Engenharia Software 2
+
+<h1> O objetivo do projeto é criar uma rede onde o usuario consegue gerenciar suas tarefas</h1>
